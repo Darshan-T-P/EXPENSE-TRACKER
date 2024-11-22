@@ -92,7 +92,6 @@ Before running the application, ensure you have the following installed:
 git clone https://github.com/Darshan-T-P/EXPENSE-TRACKER.git
 cd EXPENSE-TRACKER
 ```
----
 ### *Step 2: Set Up the MySQL Database*
 
 1. Open your MySQL CLI or GUI.
